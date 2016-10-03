@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pentago</title>
+    <script src="src/pentago.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div id="game"></div>
+</body>
+
+<script type="text/javascript">
+    let game = new Pentago();
+    new PentagoView(game, document.getElementById('game'));
+</script>
+</html>

@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+      "charset": "utf8",
+      "forceConsistentCasingInFileNames": true,
+      "module": "none",
+      "newLine": "lf",
+      "noEmitOnError": false,
+      "noImplicitAny": true,
+      "noImplicitReturns": false,
+      "pretty": true,
+      "removeComments": false,
+      "sourceMap": true,
+      "strictNullChecks": true,
+      "skipLibCheck": true,
+      "target": "es5"
+  }
+}
